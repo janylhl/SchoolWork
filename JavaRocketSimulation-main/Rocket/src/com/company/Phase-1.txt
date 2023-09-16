@@ -1,0 +1,15 @@
+building tools,2000,50000,0
+building tools,2000,50000,0
+building tools,2000,50000,0
+building tools,5000,125000,0
+building tools,5000,125000,0
+building tools,2000,50000,0
+building tools,1000,25000,0
+building tools,5000,125000,0
+building tools,6000,150000,0
+shelter equipment,5000,1000000,0
+construction equipment,5000,500000,0
+plants,1000,30000,0
+steel,8000,80000,0
+books,1000,10000,0
+water,5000,1500,0
